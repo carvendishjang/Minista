@@ -1,6 +1,8 @@
 # Minista
 Android Image Social Media App based on AWS &amp; MongoDB
 
+Let's see some screenshots!
+
 Login
 
 ![Login Screenshot](main/res/drawable/Login.png)
